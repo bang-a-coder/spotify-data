@@ -1,0 +1,24 @@
+{
+  "inferences": [
+    "1P_Custom_Affinity_Remitly [Advertiser-Specific]",
+    "1P_Custom_Auto_Citroen [Advertiser-Specific]",
+    "1P_Custom_Auto_Peugeot [Advertiser-Specific]",
+    "1P_Custom_Car_Mode_Streamers",
+    "1P_Custom_Christmas_Music_Listeners",
+    "1P_Custom_In_Car_Streamers",
+    "1P_Custom_Samsung_Lapsed_Mobile_Audience [Advertiser-Restricted]",
+    "1P_Custom_Samsung_TV_Switchers [Advertiser-Restricted]",
+    "1P_Custom_Smart_Technology_Streamers",
+    "1P_Custom_Soothing_Sounds",
+    "1P_Custom_Students",
+    "1P_Custom_T-Mobile_Switchers [Advertiser-Restricted]",
+    "1P_Custom_iPhone_Non_SE_12_Model_Streamers [Advertiser-Restricted]",
+    "1P_Internal_Premium_Standard_Subscribers",
+    "Business",
+    "Cooking",
+    "Fitness",
+    "In-Car Listening",
+    "Parenting",
+    "Travel"
+  ]
+}
