@@ -1,1 +1,9 @@
 /fetched_data/
+
+*.log
+*.json
+*.csv
+
+/data_2022/
+/data_account/
+/data_techlogs/
